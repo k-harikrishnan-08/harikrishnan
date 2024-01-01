@@ -1,0 +1,1 @@
+Document object model , an interface for web document that represent their structure as a tree-like object. it allow dynamic manipulation of page content using languages like JavaScript.
